@@ -4,7 +4,7 @@
   
   <a href="https://mohit-kumar-patidar.github.io/Portfolio/">
          <img alt="MOHIT PATIDAR PORTFOLIO" src="imgbanner.jpg"
-         width=100%" height="400">
+         width=100%" height="600">
       </a>
  
 
