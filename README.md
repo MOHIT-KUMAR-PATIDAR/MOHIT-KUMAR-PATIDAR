@@ -1,8 +1,6 @@
 
 <h1 align="center"><a  href="https://mohit-kumar-patidar.github.io/Portfolio/">MOHIT PATIDAR PORTFOLIO</a></h1>
-  <img src="imgbanner.jpg" alt="Hello world!" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-
-
+  
  
 
 
