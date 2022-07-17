@@ -1,5 +1,6 @@
 
-<h1 align="center"><a  href="https://mohit-kumar-patidar.github.io/Portfolio/">MOHIT PATIDAR PORTFOLIO</a></h1>
+<h1 align="center"><img src="imgbanner.jpg" alt="mohit-kumar-patidar" /> 
+<a  href="https://mohit-kumar-patidar.github.io/Portfolio/">MOHIT PATIDAR PORTFOLIO</a></h1>
   
  
 
