@@ -1,8 +1,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/71027506/145395122-4e41c8bf-5806-487a-9b47-5a9c4a026162.gif" data-target="animated-image.originalLink">
 <h1 align="center"><a  href="https://mohit-kumar-patidar.github.io/Portfolio/">Visit My PortFolio!</a></h1>
-  <img src="https://user-images.githubusercontent.com/71027506/145395122-4e41c8bf-5806-487a-9b47-5a9c4a026162.gif" alt="Hello world!" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-
-
+ 
 
 
 <h1 align="center"><a  href="https://mohit-kumar-patidar.github.io/Portfolio/">Visit My PortFolio!</a></h1>
