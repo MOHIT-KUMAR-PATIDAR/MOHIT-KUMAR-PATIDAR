@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://mohit-kumar-patidar.github.io/Portfolio/" alt="mohit-kumar-patidar" /></a> </p>
+
 <a href="https://mohit-kumar-patidar.github.io/Portfolio/" alt="mohit-kumar" /></a>
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar Patidar</h1>
