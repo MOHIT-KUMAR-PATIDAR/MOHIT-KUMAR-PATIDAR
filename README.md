@@ -2,6 +2,10 @@
 <h1 align="center"><img   src="imgbanner.jpg" <a  href="https://mohit-kumar-patidar.github.io/Portfolio/">MOHIT PATIDAR PORTFOLIO</a>  /> 
 </h1>
   
+  <a href="https://mohit-kumar-patidar.github.io/Portfolio/">
+         <img alt="Qries" src="imgbanner.jpg"
+         width=150" height="70">
+      </a>
  
 
 
