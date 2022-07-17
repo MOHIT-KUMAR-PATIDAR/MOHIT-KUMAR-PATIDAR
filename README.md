@@ -2,7 +2,7 @@
 
 <a href="https://mohit-kumar-patidar.github.io/Portfolio/" alt="mohit-kumar" /></a>
 
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+<a href="https://mohit-kumar-patidar.github.io/Portfolio/">Visit My PortFolio!</a>
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar Patidar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
