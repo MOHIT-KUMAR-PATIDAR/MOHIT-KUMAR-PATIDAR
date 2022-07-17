@@ -1,4 +1,4 @@
-<a href="https://mohit-kumar-patidar.github.io/Portfolio/" alt="mohit-kumar-patidar" /></a
+<a href="https://mohit-kumar-patidar.github.io/Portfolio/" alt="mohit-kumar-patidar" /></a>
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar Patidar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
