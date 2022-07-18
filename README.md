@@ -1,6 +1,6 @@
 
 
-  <h1 align="center"><a href="https://mohit-kumar-patidar.github.io/Portfolio/" MOHIT PATIDAR PORTFOLIO>
+  <h1 align="center"><a href="https://mohit-patidar9337.github.io/Mohit_PortFolio/" MOHIT PATIDAR PORTFOLIO>
          <img alt="MOHIT PATIDAR PORTFOLIO" src="imgbanner2.jpg"
          width=100%" height="600">
       MOHIT PATIDAR PORTFOLIO</a>
